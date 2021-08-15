@@ -1,0 +1,13 @@
+name: portfolio
+title: portfolio
+username:
+account: bluedog21
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4495932
+bundleId: 4926538
+url: https://bluedog21.shinyapps.io/portfolio/
+when: 1629065608.74121
+lastSyncTime: 1629065608.74121
+asMultiple: FALSE
+asStatic: FALSE
